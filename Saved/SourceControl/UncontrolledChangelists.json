@@ -5,9 +5,18 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/map/Architecture/Danger/BP_PiqueMort.uasset",
+				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/map/Danger/BP_PiqueMort.uasset",
+				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/map/Architecture/Danger/BP_TriggerMor.uasset",
+				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/map/Danger/BP_TriggerMor.uasset",
+				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/map/Architecture/CheckPoint/checkPoint.uasset",
+				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/map/CheckPoint/checkPoint.uasset",
+				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/Personnage/BP_Personnage_newWallRun.uasset",
+				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/Personnage/BP_Personnage.uasset",
+				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/Blueprint2D/map/Architecture/MurWall/NewBlueprint.uasset",
 				"E:/Document/Github/WallrunUE5.4/NewWallrun54/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3C/HW52SSMQZRA6F996MYOPVB.uasset",
-				"E:/Document/Github/WallrunUE5.4/NewWallrun54/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RY/3UMRRYMO4VXUXVM12H7CZ4.uasset",
-				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"E:/Document/Github/WallrunUE5.4/NewWallrun54/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RY/3UMRRYMO4VXUXVM12H7CZ4.uasset"
 			]
 		}
 	]
