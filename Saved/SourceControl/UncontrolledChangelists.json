@@ -6,6 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/1N/16MQQT28E0XDVJ8YVBPOQ6.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/Blueprint2D/map/Architecture/Interactif/W_InfoPorte.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/Blueprint2D/map/Architecture/Interactif/W_InfoKey.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/Blueprint2D/map/Architecture/Interactif/BP_Porte_FlipFlop.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/ThirdPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/ThirdPerson/Input/IMC_Default1.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/Blueprint2D/Personnage/BP_Personnage.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/Blueprint2D/map/Architecture/Interactif/BP_Key.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/N9/9SWUBVW9DLJZ4KT0GMLB9T.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/JI/9YL6CBQE8WE4ZBRTBGTD63.uasset",
+				"C:/Users/thomas.nouvel/Documents/Unreal Projects/NewWallrun54/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/T1/MBYJ8B8X4PP2LINQR8C3MO.uasset",
 				"E:/Document/Github/WallrunUE5.4/NewWallrun54/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/3C/HW52SSMQZRA6F996MYOPVB.uasset",
 				"E:/Document/Github/WallrunUE5.4/NewWallrun54/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/RY/3UMRRYMO4VXUXVM12H7CZ4.uasset",
 				"C:/2_Brassart/Github/WallRunUnreal/NewWallrun54/Content/StarterContent/Architecture/Floor_400x400.uasset"
